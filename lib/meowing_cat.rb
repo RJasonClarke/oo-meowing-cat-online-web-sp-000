@@ -1,4 +1,8 @@
 ## code your solution here.
 class Cat
-  maru :name
+  def name= maru
+    @name = "Maru"
+  end
+  def name
+    @name
 end
