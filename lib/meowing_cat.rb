@@ -11,4 +11,4 @@ class Cat
   end
 end
 
-kitty.maru
+
